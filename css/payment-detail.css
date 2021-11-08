@@ -1,0 +1,42 @@
+input, select {
+    border: none;
+    border-bottom: 1px solid black;
+    display: block;
+    width: 100%;
+    margin: 20px 0px;
+    height: 50px;
+    padding: 0 20px;
+}
+
+form {
+    width: 900px;
+    margin: auto;
+    margin-top: 90px;
+}
+
+h1.title {
+    text-align: center;
+}
+
+button.primary-button {
+    width: 50%;
+    border: none;
+    border-radius: 0px;
+    height: 53px;
+    margin: auto;
+}
+
+.btn-pay-wrap {
+    width: 100%;
+    text-align: center;
+}
+
+.select-card {
+    position: relative;
+}
+
+img.logo-mastercard {
+    position: absolute;
+    right: 23px;
+    bottom: 8px;
+}

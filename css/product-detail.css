@@ -63,6 +63,8 @@ p.product-description {
 ul {
     list-style: none;
     text-align: center;
+    margin: auto;
+    display: table;
 }
 
 ul li{

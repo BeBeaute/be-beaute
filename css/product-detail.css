@@ -1,0 +1,247 @@
+.product-tab {
+    border-bottom: 1px solid black;
+}
+.product-wrap {
+    padding: 0px 50px;
+}
+.social-sharing-wrap .fa{
+    border-radius: 100%;
+    height: 15px;
+    width: 15px;
+    font-size: 20px;
+}
+.qty {
+    display: block;
+    margin: 40px 0px;
+}
+.product-button {
+    display: flex;
+    flex-direction: column;
+}
+
+.product-image-wrap {margin-right: 83px;position: relative;}
+
+.product-image-wrap img {
+    border-radius: 15px;
+    box-shadow: 1px 1px 5px #ccc;
+    height: 800px;
+    width: 610px;
+}
+
+.product-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+p.product-description {
+    width: 500px;
+}
+
+.left-arrow {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    position: absolute;
+    top: 45%;
+    left: 3%;
+    box-shadow: 1px 1px 5px #919191;
+    text-align: center;
+}
+
+.right-arrow {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    position: absolute;
+    top: 45%;
+    right: 3%;
+    box-shadow: 1px 1px 5px #919191;
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+    text-align: center;
+    margin: auto;
+    display: table;
+}
+
+ul li{
+    float: left;
+    margin-right: 10px;
+}
+
+.dot{
+    background: #ccc;
+    height: 10px;
+    width: 10px;
+    border-radius: 50%;
+    border: 1px solid #ccc;
+}
+
+.active{
+    background: black;
+    border: 1px solid #ccc;
+}
+
+.dot-listing {
+    position: absolute;
+    bottom: 7%;
+    left: -1px;
+    right: -1px;
+    width: 150px;
+    margin: auto;
+}
+
+
+.arrow {
+  border: solid black;
+  border-width: 0 5px 5px 0;
+  display: inline-block;
+  padding: 5px;
+}
+
+.right {
+  transform: rotate(-45deg);
+  -webkit-transform: rotate(-45deg);
+}
+
+.left {
+  transform: rotate(135deg);
+  -webkit-transform: rotate(135deg);
+}
+
+.up {
+  transform: rotate(-135deg);
+  -webkit-transform: rotate(-135deg);
+}
+
+.down {
+  transform: rotate(45deg);
+  -webkit-transform: rotate(45deg);
+}
+
+.arrow{
+  margin-top: 17px;
+}
+
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+  }
+  
+  .fa:hover {
+      opacity: 0.7;
+  }
+  
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  
+  .fa-google {
+    background: #dd4b39;
+    color: white;
+  }
+  
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+  
+  .fa-youtube {
+    background: #bb0000;
+    color: white;
+  }
+  
+  .fa-instagram {
+    background: #125688;
+    color: white;
+  }
+  
+  .fa-pinterest {
+    background: #cb2027;
+    color: white;
+  }
+  
+  .fa-snapchat-ghost {
+    background: #fffc00;
+    color: white;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  }
+  
+  .fa-skype {
+    background: #00aff0;
+    color: white;
+  }
+  
+  .fa-android {
+    background: #a4c639;
+    color: white;
+  }
+  
+  .fa-dribbble {
+    background: #ea4c89;
+    color: white;
+  }
+  
+  .fa-vimeo {
+    background: #45bbff;
+    color: white;
+  }
+  
+  .fa-tumblr {
+    background: #2c4762;
+    color: white;
+  }
+  
+  .fa-vine {
+    background: #00b489;
+    color: white;
+  }
+  
+  .fa-foursquare {
+    background: #45bbff;
+    color: white;
+  }
+  
+  .fa-stumbleupon {
+    background: #eb4924;
+    color: white;
+  }
+  
+  .fa-flickr {
+    background: #f40083;
+    color: white;
+  }
+  
+  .fa-yahoo {
+    background: #430297;
+    color: white;
+  }
+  
+  .fa-soundcloud {
+    background: #ff5500;
+    color: white;
+  }
+  
+  .fa-reddit {
+    background: #ff5700;
+    color: white;
+  }
+  
+  .fa-rss {
+    background: #ff6600;
+    color: white;
+  }

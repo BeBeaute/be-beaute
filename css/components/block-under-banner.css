@@ -2,6 +2,7 @@ ul.text-under-banner-inline {
     display: flex;
     justify-content: space-around;
     list-style: none;
+    clear: both;
 }
 
 .text-under-banner-inline li {

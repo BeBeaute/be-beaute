@@ -1,0 +1,28 @@
+#team-design img {
+width: 200px;
+height: 200px;
+}
+
+.list-inline {
+	list-style: none;
+	padding-left: 0px;
+}
+
+.list-inline li {
+	display: inline;
+	padding: 20px;
+}
+
+.list-inline1 li {
+	display: inline;
+	padding: 70px;
+	font-family: 'Abril Fatface', cursive;
+	color: #a45545;
+
+}
+
+.list-inline2 li {
+	display: inline;
+	padding: 70px;
+	margin-bottom: 10px;
+}

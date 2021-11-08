@@ -5,6 +5,7 @@
   justify-content: center;
   margin: auto;
   align-content: stretch;
+  margin-bottom: 35px;
 }
 
 /*This is product listing image*/
@@ -51,5 +52,4 @@
 
 .product-listing-title {
   text-align: center;
-  width: 1440px;
 }

@@ -16,12 +16,6 @@
 @import url("components/social.css");
 @import url("components/footer.css");
 @import url("components/product-listing.css");
-@import url("components/card-white-aboutus.css");
-@import url("components/myimage-aboutus.css");
-@import url("components/container-aboutus.css");
-@import url("components/header-aboutus.css");
-@import url("components/team-aboutus.css");
-
 body {
 	font-family: 'Merriweather', serif;
 	font-size:  16px;

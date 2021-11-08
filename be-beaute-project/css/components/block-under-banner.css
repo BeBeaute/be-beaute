@@ -1,0 +1,30 @@
+ul.text-under-banner-inline {
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+}
+
+.text-under-banner-inline li {
+    font-family: montserrat,sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 150%;
+    text-align: left;
+}
+
+.text-under-banner-inline-gray li {
+    display: inline;
+    padding: 100px;
+    position: relative;
+    top: 600px;
+    left: 24px;
+
+    font-family: montserrat,sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 150%;
+    text-align: left;
+
+}

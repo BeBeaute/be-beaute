@@ -1,0 +1,105 @@
+.carousel-title {
+  /* Title */
+  display: block;
+  
+  
+  
+/* Heading / H2 */
+  font-family: Montserrat,sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 40px;
+  line-height: 120%;
+/* identical to box height, or 48px */
+  text-align: center;
+
+/* Color / Gray 1 */
+  color: #3A3A3A;
+  margin-top: 35px;
+  margin-bottom: 35px;
+}
+
+.product-features {display: flex;flex-direction: flow;align-items: center;justify-content: space-between;margin-left: 0px;width: 100%;margin-bottom: 60px;overflow-x: scroll;overflow-y: hidden;}
+.product-features2 {
+  display: flex;
+  flex-direction: flow;
+  align-items: center;
+  justify-content: space-between;
+  margin-left: 0px;
+  width: 300px;
+
+}
+
+
+/*This is product feature image*/
+.product-features img {
+  align-items: center;
+  width: 285px;
+  height: 300px;
+
+}
+.product-features2 img {
+  align-items: center;
+  width: 285px;
+  height: 300px;
+}
+/*This is product feature title*/
+.product-features h3 {
+  padding-left: 0px;
+  margin-left: 10px;
+  margin: 0px 0px 5px 10px;
+}
+.product-features2 h3 {
+  padding-left: 0px;
+  margin-left: 10px;
+  margin: 0px 0px 5px 10px;
+}
+
+/*This is product feature description*/
+.product-features h4 {
+  margin: 0px 0px 0px 10px;
+}
+
+/*This is product feature image*/
+.product-features2 img {
+  align-items: center;
+  width: 285px;
+  height: 300px;
+
+}
+/*This is product feature title*/
+.product-features2 h3 {
+  padding-left: 0px;
+  margin-left: 10px;
+  margin: 0px 0px 5px 10px;
+}
+
+/*This is product feature description*/
+.product-features2 h4 {
+  margin: 0px 0px 0px 10px;
+}
+  
+/*This is product feature price*/
+.product-feature p {
+  font-family: montserrat,sans-serif;
+  font-weight: 600;
+  margin-left: 10px;
+  margin: 0px 0px 0px 10px;
+}
+.product-feature2 p {
+  font-family: montserrat,sans-serif;
+  font-weight: 600;
+  margin-left: 10px;
+  margin: 0px 0px 0px 10px;
+}
+
+.product-feature{
+ width: 285px;
+  height: 390px;
+  margin: 0px;
+  padding:  0px;
+  background: rgba(216, 226, 220, 0.72);
+  backdrop-filter: blur(31px);
+  box-shadow:  0px 2px 5px rgb(0,0,0,0.1);
+  border: 5px solid rgba(216, 226, 220, 0.72);  
+}

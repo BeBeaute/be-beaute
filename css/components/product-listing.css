@@ -15,6 +15,12 @@
   height: 300px;
 
 }
+.product-listing:hover img {
+    transform: scale(1.9);
+    transition-duration:.9s;
+}
+.product-listing {overflow:hidden!important;}
+
 /*This is product listing title*/
 .product-listing h3 {
   padding-left: 0px;

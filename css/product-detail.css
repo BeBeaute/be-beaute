@@ -17,7 +17,6 @@
 .product-button {
     display: flex;
     flex-direction: column;
-    
 }
 
 .product-image-wrap {margin-right: 83px;position: relative;}
